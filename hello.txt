@@ -1,11 +1,8 @@
 hello git! This is my git folder.
 hello git! This is my git folder.
-this has been changed!
 hello git! This is my git folder.
 hello git! This is my git folder.
 hello git! This is my git folder.
 hello git! This is my git folder.
 hello git! This is my git folder.
 hello git! This is my git folder.
-third change the file!
-Hot fix insert into this file;
